@@ -15,7 +15,8 @@ setup(
         "pybullet",
         "torch",
         "opencv-python",
-        "box2d-py",
+        # "box2d-py",
+        "box2d",
     ],
     description="Lightweight, Efficient and Stable DRL Implementation Using PyTorch",
     classifiers=[
