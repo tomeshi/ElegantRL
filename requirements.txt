@@ -12,4 +12,5 @@ numpy
 matplotlib
 pybullet
 opencv-python
-box2d-py
+# box2d-py
+box2d
